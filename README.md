@@ -32,8 +32,9 @@ Quando um paciente agenda uma consulta por aqui, os dados são processados por u
 
 <br><br>
 
-  <img width="1440" height="6229" alt="2" src="https://github.com/user-attachments/assets/4ac418d7-7492-4bd0-a58e-505d9a26f431" />
+  
   <img width="1440" height="6229" alt="https-juliacruzsaude vercel app-(1)" src="https://github.com/user-attachments/assets/63559564-c267-41f4-aafe-007934d49ee8" />
+  <img width="1440" height="6229" alt="2" src="https://github.com/user-attachments/assets/4ac418d7-7492-4bd0-a58e-505d9a26f431" />
   <p align="center">
     <b>Visão Mobile (Mobile-First):</b> Foco total na experiência e conversão do usuário em telas menores. Os botões principais, como o "Agendar Avaliação", possuem animações de micro-interação (escala e sombra) ao serem tocados, gerados com Framer Motion para dar resposta tátil ao usuário. O ícone verde do WhatsApp no canto direito da tela possui posicionamento <i>fixed</i>. Ele não está ali aleatoriamente: o botão acompanha a rolagem da tela (scroll), garantindo que o paciente tenha um canal de comunicação direta à distância de um clique, independentemente da seção do site que esteja lendo.
   </p>
